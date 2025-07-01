@@ -38,3 +38,8 @@ I was responsible for:
 Reports
  Pallavi Ranganatha - Individual report DL.docx
   Team Poster - DL_ICA_Brain_tumor_classification_poster.pdf
+
+  Author
+Pallavi R
+ Email: pallavirgowda22@gmail.com
+ LinkedIn: linkedin.com/in/pallavi-r-gowda-462926289

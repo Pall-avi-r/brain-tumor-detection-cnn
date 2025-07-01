@@ -31,10 +31,10 @@ I was responsible for:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the notebook:
+3. Open and run the Jupyter notebook:
    jupyter notebook deep-learning-ica-brain-tumour-classification.ipynb
    ⚠️ Note: This project was implemented and tested in a Kaggle Notebook, which includes the GPU backend for deep learning.
 
 Reports
  Pallavi Ranganatha - Individual report DL.docx
-  Team Poster - Project Poster
+  Team Poster - DL_ICA_Brain_tumor_classification_poster.pdf

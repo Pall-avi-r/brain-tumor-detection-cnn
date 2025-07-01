@@ -25,3 +25,7 @@ We used the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnick
    ```bash
    pip install -r requirements.txt
 
+
+## Project Reports
+
+ **Individual Report by Pallavi Ranganatha**: `Individual report DL.docx`
